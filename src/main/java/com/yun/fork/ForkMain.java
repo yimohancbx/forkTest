@@ -7,6 +7,7 @@ package com.yun.fork;
 
 public class ForkMain {
     public static void main(String[] args) {
+        System.out.println("fork update");
         System.out.println("s");
     }
 }
