@@ -2,246 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a24c54-120f-4d28-b3bf-2c6587fa4646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPattern/src/main/java/com/design/example/Singleton/SingletonExaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_core_1_11_166.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_kms_1_11_166.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_amazonaws_jmespath_java_1_11_166.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_api_client_google_api_client_1_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_apis_google_api_services_cloudkms_v1_rev9_1_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_auto_auto_common_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_rc4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_crypto_tink_tink_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_http_client_google_http_client_1_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_squareup_okhttp_mockwebserver_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_squareup_okhttp_okhttp_ws_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__joda_time_joda_time_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__net_i2p_crypto_eddsa_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_bouncycastle_bcprov_ext_jdk15on_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/libraries/Maven__software_amazon_ion_ion_java_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/bytom-java-sdk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/bytom-sdk/bytom-sdk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/bytom-sdk/target/VaporClinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/api/SignTransactionVaporImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/types/IntraChainOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/types/Veto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/types/VoteOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/vapor/EosRpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/vapor/SigningInstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/vapor/VaporClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/main/java/io/bytom/vapor/VoteTranscation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/src/test/java/io/bytom/vapor/VaporTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytom-java-sdk/tx-signer/tx-signer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bitcoinj/core/AddressFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bitcoinj/core/Base58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/Digest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/ExtendedDigest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/digests/Blake2bDigest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/digests/EncodableDigest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/digests/GeneralDigest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/digests/KeccakDigest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/crypto/digests/SHA256Digest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/util/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/util/Memoable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/util/MemoableResetException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/bouncycastle/util/Pack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/BaseJavaCurve25519Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/Curve25519.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/Curve25519KeyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/Curve25519Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/JCESecureRandomProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/JCESha512Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/JavaCurve25519Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/NativeCurve25519Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/NoSuchProviderException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/OpportunisticCurve25519Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/SecureRandomProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/VrfSignatureVerificationFailedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/Sha512.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/crypto_verify_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/curve_sigs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_cmov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_cswap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_frombytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_invert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_isnegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_isnonzero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_mul121666.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_neg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_pow22523.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_sq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_sq2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/fe_tobytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_cached.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_double_scalarmult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_frombytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_madd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_msub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p1p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p1p1_to_p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p1p1_to_p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p2_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p2_dbl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3_dbl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3_to_cached.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3_to_p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_p3_tobytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp_base_0_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp_base_16_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp_base_24_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_precomp_base_8_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_scalarmult_base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/ge_tobytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/open.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/sc_muladd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/sc_reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/scalarmult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/org/whispersystems/curve25519/java/sign_modified.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/Blockchain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/LeaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/ProofType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/SuperInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/TransUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/TransferDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/VSYSTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/BalanceDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/Proof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/SPOSConsensus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/entity/SlotInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/error/ApiError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/error/KeyError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/error/SerializationError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/error/TransactionError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/error/VException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/serialization/BytesSerializable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/serialization/JsonSerializable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/BasicTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/BytesSerializableTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/ContendSlotTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/LeaseCancelTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/LeaseTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/MintingTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/PaymentTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/ProvenTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/ReleaseSlotTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/TransactionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/TransactionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/transaction/UnknownTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/type/Base58Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/type/NetworkType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/type/TransactionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/utils/BytesHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/utils/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/utils/HttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/v/systems/utils/JsonHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/TestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/btm/client/BtmClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/client/NulsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/AccountBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/ChainInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/DepositTransferDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/HistoryTransferDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/Tx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tron-develop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/Kuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/StrapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/ThirdSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/array/Water2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/image/ImageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/link/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/map/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/node/NodeListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/node/TreeNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/path/PathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/Bao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/IpUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/LongestCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/NoHui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/Pai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/string/StringMu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/tree/ErChaDuiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/tree/HeadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/com/owner/yun/tree/RedBlockTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/resources/font/msyh.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/api/GrpcAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/dto/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/dto/DataDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/dto/RawData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/dto/TransationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/dto/VoteDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/main/java/org/tron/util/TransactionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/src/test/java/org/tron/TransactionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tronDemo/tronDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.bing.fork/BingUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.bing.fork/BingUpdate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -282,6 +44,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1119091313">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="43" />
+          <entry key="txt" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="43" />
+          <entry key="PLAIN_TEXT" value="32" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -293,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yun/fork/ForkMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="249">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
@@ -303,15 +95,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yun/fork/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="87">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.bing.fork/BingUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -326,6 +127,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yunyun.zhao@okg.com &lt;yunyun.zhao@okg.com&gt;" />
+        <option value="haha" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -342,6 +149,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/yun/fork/ForkMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yun/fork/GitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.bing.fork/BingUpdate.java" />
       </list>
     </option>
   </component>
@@ -354,6 +162,10 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="forkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -404,7 +216,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fork" type="462c0819:PsiDirectoryNode" />
+              <item name="com.bing.fork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,12 +227,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586609235773" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586610895195" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -446,16 +264,26 @@
       <updated>1586606280056</updated>
       <workItem from="1586606283118" duration="1005000" />
       <workItem from="1586607327231" duration="1699000" />
+      <workItem from="1586610336198" duration="628000" />
     </task>
+    <task id="LOCAL-00001" summary="haha commit">
+      <created>1586610815233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586610815233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2704000" />
+    <option name="totallyTimeSpent" value="3332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1509299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29041487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,16 +345,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="haha commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="haha commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/AccountBalance.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo1/src/main/java/com/example/demo/nuls/dto/AccountBalance.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yun/fork/ForkMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="249">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
@@ -537,12 +367,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yun/fork/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="87">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.bing.fork/BingUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
