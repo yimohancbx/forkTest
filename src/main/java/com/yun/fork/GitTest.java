@@ -7,6 +7,7 @@ package com.yun.fork;
 
 public class GitTest {
     public static void main(String[] args) {
+        System.out.println("git update");
         System.out.println("2");
     }
 }
