@@ -10,5 +10,6 @@ public class BingUpdate {
         System.out.println("bing update");
         System.out.println("bing commit");
         System.out.println("bing push");
+        System.out.println("bing push1");
     }
 }
