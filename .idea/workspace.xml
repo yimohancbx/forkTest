@@ -129,6 +129,10 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586611584921" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
